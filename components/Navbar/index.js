@@ -29,7 +29,7 @@ const Link = styled('a')(() => ({
 
 const TopNavbar = () => {
   return (
-    <div>
+    
       <Navbar>
         <ul style={{}}>
           <ListItem>
@@ -40,7 +40,7 @@ const TopNavbar = () => {
           </ListItem>
         </ul>
       </Navbar>
-    </div>
+  
   );
 };
 
